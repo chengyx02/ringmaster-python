@@ -1,4 +1,7 @@
+.vscode/
+test/
 **.y4m
+**.yuv
 **.csv
 **/__pycache__/
 *.pyc
