@@ -4,10 +4,20 @@ python reimplementation of ringmaster project
 
 ## Installation
 
+To set up the environment using `conda`:
+
 ```bash
 conda create -n pyringmaster python=3.9
 conda activate pyringmaster
-conda install -c conda-forge
+conda install -c conda-forge gcc
+pip install -r requirements.txt
+```
+
+Alternatively, to set up the environment using `venv`:
+
+```bash
+python -m venv pyringmaster
+source pyringmaster/bin/activate  # On Windows use `pyringmaster\Scripts\activate`
 pip install -r requirements.txt
 ```
 
