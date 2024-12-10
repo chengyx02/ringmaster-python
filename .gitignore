@@ -1,4 +1,5 @@
 .vscode/
+pyringmaster/
 test/
 **.y4m
 **.yuv
