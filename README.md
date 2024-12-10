@@ -2,7 +2,7 @@
 
 This project is a Python implementation of Ringmaster.
 
-The original C++ code is from [lng205/ringmaster](https://github.com/lng205/ringmaster).
+The original C++ code is from [ringmaster](https://github.com/microsoft/ringmaster) and [lng205/ringmaster](https://github.com/lng205/ringmaster).
 
 ## Dependencies
 
