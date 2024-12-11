@@ -1,6 +1,6 @@
 # Ringmaster-python
 
-This project is a Python implementation of Ringmaster.
+This project is a Python implementation for Ringmaster.
 
 The original C++ code is from [ringmaster](https://github.com/microsoft/ringmaster) and [lng205/ringmaster](https://github.com/lng205/ringmaster).
 
